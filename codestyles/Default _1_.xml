@@ -1,4 +1,6 @@
 <code_scheme name="Default (1)">
+  <option name="HTML_KEEP_BLANK_LINES" value="1" />
+  <option name="HTML_SPACE_AROUND_EQUALITY_IN_ATTRINUTE" value="true" />
   <JSCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
     <option name="ALIGN_MULTILINE_VAR_DECLARATION" value="true" />
@@ -7,6 +9,10 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <codeStyleSettings language="HTML">
+    <option name="RIGHT_MARGIN" value="120" />
+    <option name="WRAP_ON_TYPING" value="1" />
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="true" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
