@@ -14068,7 +14068,7 @@
     </option>
     <option name="PY.CLASS_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="39a4ff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -14085,7 +14085,7 @@
     </option>
     <option name="PY.FUNC_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="f9ff09" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
