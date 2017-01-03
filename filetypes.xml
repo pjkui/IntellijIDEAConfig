@@ -1,7 +1,6 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="py" type="Native" />
       <mapping pattern="npm" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
     </extensionMap>
