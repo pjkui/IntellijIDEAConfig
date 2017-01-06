@@ -1,4 +1,7 @@
 <code_scheme name="Default (2)">
+  <JSCodeStyleSettings>
+    <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
+  </JSCodeStyleSettings>
   <JSON>
     <option name="ARRAY_WRAPPING" value="1" />
   </JSON>

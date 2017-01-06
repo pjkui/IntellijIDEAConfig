@@ -14032,6 +14032,11 @@
         <option name="BACKGROUND" value="2a526e" />
       </value>
     </option>
+    <option name="PHP_VAR">
+      <value>
+        <option name="FOREGROUND" value="39a4ff" />
+      </value>
+    </option>
     <option name="PROPERTIES.LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="e75252" />
