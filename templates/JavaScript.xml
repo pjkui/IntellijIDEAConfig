@@ -1,25 +1,25 @@
 <templateSet group="JavaScript">
-  <template name="lef" value="b3e.log((new Date()).getTime()+'#enter--&gt;:$filename$:$functionname$()');" description="log enter funtion information" toReformat="false" toShortenFQNames="true">
+  <template name="lef" value="bhce.log((new Date()).getTime()+'#enter--&gt;:$filename$:$functionname$()');" description="log enter funtion information" toReformat="false" toShortenFQNames="true">
     <variable name="filename" expression="fileName()" defaultValue="" alwaysStopAt="true" />
     <variable name="functionname" expression="jsMethodName()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="llf" value="b3e.log((new Date()).getTime()+'#leave--&gt;:$filename$:$functionname$()');" description="log  leave funtion information" toReformat="false" toShortenFQNames="true">
+  <template name="llf" value="bhce.log((new Date()).getTime()+'#leave--&gt;:$filename$:$functionname$()');" description="log  leave funtion information" toReformat="false" toShortenFQNames="true">
     <variable name="filename" expression="fileName()" defaultValue="" alwaysStopAt="true" />
     <variable name="functionname" expression="jsMethodName()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="lg" value="b3e.log($suggestVariable$);" description="log  information" toReformat="false" toShortenFQNames="true">
+  <template name="lg" value="bhce.log($suggestVariable$);" description="log  information" toReformat="false" toShortenFQNames="true">
     <variable name="suggestVariable" expression="jsSuggestVariableName()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="log" value="b3e.log((new Date()).getTime()+'#log--&gt;'+$var$+':$filename$:$functionname$()');" description="log information" toReformat="false" toShortenFQNames="true">
+  <template name="log" value="bhce.log((new Date()).getTime()+'#log--&gt;'+$var$+':$filename$:$functionname$()');" description="log information" toReformat="false" toShortenFQNames="true">
     <variable name="var" expression="jsQualifiedClassName()" defaultValue="" alwaysStopAt="true" />
     <variable name="filename" expression="fileName()" defaultValue="" alwaysStopAt="true" />
     <variable name="functionname" expression="jsMethodName()" defaultValue="" alwaysStopAt="true" />
@@ -27,7 +27,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="lge" value="b3e.error((new Date()).getTime()+'#log:error--&gt;$var$ @$filename$:$functionname$()');" description="log error information" toReformat="false" toShortenFQNames="true">
+  <template name="lge" value="bhce.error((new Date()).getTime()+'#log:error--&gt;$var$ @$filename$:$functionname$()');" description="log error information" toReformat="false" toShortenFQNames="true">
     <variable name="var" expression="jsQualifiedClassName()" defaultValue="" alwaysStopAt="true" />
     <variable name="filename" expression="fileName()" defaultValue="" alwaysStopAt="true" />
     <variable name="functionname" expression="jsMethodName()" defaultValue="" alwaysStopAt="true" />
