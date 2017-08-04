@@ -8,7 +8,7 @@
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
-    <pattern icon="important" pattern="\bNOTE\b.*" />
+    <pattern icon="important" case-sensitive="true" pattern="\bNOTE\b.*" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
