@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="File '[epsd] - ...\editor\src\js\base\core\dom.js'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '[epsd] - ...\editor\src\js\base\core\dom.js'" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,6 +16,7 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.js</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
